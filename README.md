@@ -1,4 +1,4 @@
-# Hey There! I'm Muhammad Abdullah 👋
+<!-- # Hey There! I'm Muhammad Abdullah 👋
 
 ### Backend Developer | Software Engineering Student
 
@@ -116,4 +116,5 @@ Backend development work focused on:
 
 - LinkedIn: https://www.linkedin.com/in/m-abdullah-hammad-8392642ab
 - GitHub: https://github.com/Muhammad-Abdullah321
-- Email: abdullah03362@gmail.com
+- Email: abdullah03362@gmail.com -->
+
