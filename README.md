@@ -205,7 +205,7 @@ My core stack includes **Node.js, Express.js, FastAPI, MongoDB, and PostgreSQL**
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/m-abdullah-hammad-8392642ab">
+  <a href="https://www.linkedin.com/in/muhammad-abdullah-hammad-8392642ab">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:abdullah03362@gmail.com">
